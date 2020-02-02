@@ -1,3 +1,4 @@
 git—ûK’†
 git add .
 git commit
+git status
